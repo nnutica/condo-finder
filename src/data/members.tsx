@@ -20,7 +20,7 @@ export const members: Member[] = [
       },
       {
         id: "1650704404",
-        name: "ก้ายอ เมล",
+        name: "อมาวสุ ด้วงอินทร์",
         role: "นักพัฒนา Backend",
         image:"src/assets/member/korya.png"
       },
