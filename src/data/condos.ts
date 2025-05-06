@@ -18,7 +18,7 @@ export interface Condo {
             bedrooms: 2,
             bathrooms: 2,
             area: 28,
-            image: "640x480",
+            image: "https://sereneproperty.com/2019/connect/assets/frontend/img/photo-connect-800x815--1.jpg",
           },
           {
             id: 2,
@@ -28,7 +28,7 @@ export interface Condo {
             bedrooms: 2,
             bathrooms: 2,
             area: 28,
-            image: "640x480",
+            image: "https://sereneproperty.com/2019/connect/assets/frontend/img/photo-connect-800x815--1.jpg",
           },
           {
             id: 3,
@@ -38,7 +38,7 @@ export interface Condo {
             bedrooms: 2,
             bathrooms: 2,
             area: 28,
-            image: "640x480",
+            image: "https://sereneproperty.com/2019/connect/assets/frontend/img/photo-connect-800x815--1.jpg",
           },
           {
             id: 4,
@@ -48,7 +48,7 @@ export interface Condo {
             bedrooms: 2,
             bathrooms: 2,
             area: 65,
-            image: "640x480",
+            image: "https://www.lh.co.th/_next/image?url=https%3A%2F%2Flh-assets.lh.co.th%2Fimages%2Foriginal%2Fprojects%2F94c66f67-f6c5-4ecb-9337-99d72ca58b38%2Fprojects-language%2F6e3ed7a6-e962-414e-861d-5d054e1293aa%2Fthai%2Fpage-setting%2Fd9da708a-59ed-4422-b001-4150370287d5%2F3b5211c7-5d78-4185-b542-8e0daa474026.jpeg&w=3840&q=75",
           },
           {
             id: 5,
@@ -58,7 +58,7 @@ export interface Condo {
             bedrooms: 1,
             bathrooms: 1,
             area: 45,
-            image: "640x480",
+            image: "https://www.lh.co.th/_next/image?url=https%3A%2F%2Flh-assets.lh.co.th%2Fimages%2Foriginal%2Fprojects%2F94c66f67-f6c5-4ecb-9337-99d72ca58b38%2Fprojects-language%2F6e3ed7a6-e962-414e-861d-5d054e1293aa%2Fthai%2Fpage-setting%2Fd9da708a-59ed-4422-b001-4150370287d5%2F3b5211c7-5d78-4185-b542-8e0daa474026.jpeg&w=3840&q=75",
           },
           {
             id: 6,
@@ -68,7 +68,7 @@ export interface Condo {
             bedrooms: 4,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.lh.co.th/_next/image?url=https%3A%2F%2Flh-assets.lh.co.th%2Fimages%2Foriginal%2Fprojects%2F94c66f67-f6c5-4ecb-9337-99d72ca58b38%2Fprojects-language%2F6e3ed7a6-e962-414e-861d-5d054e1293aa%2Fthai%2Fpage-setting%2Fd9da708a-59ed-4422-b001-4150370287d5%2F3b5211c7-5d78-4185-b542-8e0daa474026.jpeg&w=3840&q=75",
           },
           {
             id: 7,
@@ -78,7 +78,7 @@ export interface Condo {
             bedrooms: 3,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.realasset.co.th/upload/project/1000-x-700-px.jpg",
           },
           {
             id: 8,
@@ -88,7 +88,7 @@ export interface Condo {
             bedrooms: 3,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.realasset.co.th/upload/project/1000-x-700-px.jpg",
           },
           {
             id: 9,
@@ -98,7 +98,7 @@ export interface Condo {
             bedrooms: 4,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.realasset.co.th/upload/project/1000-x-700-px.jpg",
           },
           {
             id: 10,
@@ -108,7 +108,7 @@ export interface Condo {
             bedrooms: 3,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.sansiri.com/media/uuchsdeu/dcondo-campus-khonkaen-condo-cover-banner-mobile-1080x1080.webp",
           },
           {
             id: 11,
@@ -118,7 +118,7 @@ export interface Condo {
             bedrooms: 3,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.sansiri.com/media/uuchsdeu/dcondo-campus-khonkaen-condo-cover-banner-mobile-1080x1080.webp",
           },
           {
             id: 12,
@@ -128,7 +128,7 @@ export interface Condo {
             bedrooms: 4,
             bathrooms: 2,
             area: 85,
-            image: "640x480",
+            image: "https://www.sansiri.com/media/uuchsdeu/dcondo-campus-khonkaen-condo-cover-banner-mobile-1080x1080.webp",
           },
 
     ]

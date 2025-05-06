@@ -9,8 +9,12 @@ const CondoCard = ({ condo }: CondoCardProps) => {
     <div className="bg-white rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition overflow-hidden flex flex-col">
       {/* Image section (placeholder) */}
       <div className="relative h-48 bg-gray-100 flex items-center justify-center">
-        <span className="text-sm text-gray-400">Image</span>
-        <span className="absolute top-2 left-2 bg-pink-500 text-white text-xs font-semibold px-2 py-1 rounded">For Sale</span>
+        <img
+          src={condo.image}
+          alt={condo.name}
+          className="w-full h-full object-cover"
+        />
+        <span className="absolute top-2 left-2 bg-red-500 text-white text-xs font-semibold px-2 py-1 rounded">For Sale</span>
       </div>
 
       {/* Details */}
