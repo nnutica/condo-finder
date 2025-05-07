@@ -7,7 +7,7 @@ import { useState } from "react";
 function Mainpage() {
 
   
-  const [filters, setFilters] = useState({ bedrooms: 0, minPrice: 0, maxPrice: 10000000 });
+  const [filters, setFilters] = useState({ bedrooms: 0, minPrice: 0, maxPrice: 30000000 });
   const filteredCondos = condoData.filter((condo) =>
       (filters.bedrooms === 0 || condo.bedrooms === filters.bedrooms) &&
       condo.price >= filters.minPrice &&
