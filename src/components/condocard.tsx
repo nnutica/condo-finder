@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { Condo } from "../data/condos";
 import CondoModal from "./CondoModal";
 

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { members } from '../data/members'
 
 function Member() {
