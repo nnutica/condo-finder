@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Filter from "./filterbar";
 import CondoCard from "./condocard";
 import { condoData } from "../data/condos";
